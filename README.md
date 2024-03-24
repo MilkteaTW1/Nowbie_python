@@ -1,14 +1,14 @@
-## This is a newbie ==***python***== programer file .  
+## This is a newbie ***python*** programer file .  
 
 ---
 
 >there are nothing at here
 >* nothing
 
-    1. nothing
+>    1. nothing
 >- nothing
 
-    1. nothing awa
+>    1. nothing awa
 
 | nothing | nothing |
 |--------:|:-------:|
